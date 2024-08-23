@@ -1,0 +1,35 @@
+.box9{
+    height: 400px;
+    width: 1300px;
+    background-color: white;
+    margin-left: 6.5rem;
+
+}
+
+.question{
+    padding-top: 25px;
+    padding-left: 27rem;
+}
+
+.asked{
+    color:  #1483DC;
+    padding-left: 50px;
+}
+
+.hello{
+    padding-left: 15px;
+    gap: 10px;
+    padding-top: 40px;
+}
+
+.hello1{
+    padding-left: 18px;
+    color:  #1483DC;
+    font-size: 25px;
+}
+
+.hello2{
+    padding-left: 10px;
+    padding-top: 1px;
+    font-size: 18px;
+}

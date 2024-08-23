@@ -1,0 +1,114 @@
+
+.box1{
+    height: 640px;
+    width: 100%;
+    background-color: rgb(48, 92, 92);
+    margin-top: 0pc;
+    /* background-image: url("image/imageb.jpg"); */
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title{
+    padding-top: 8rem;
+    display: flex;
+    justify-content: center;
+    font-size: 45px;
+    color: white;
+}
+
+.box2{
+    display: flex;
+    align-items: center;
+    height: 3.5rem;
+    width: 70%;
+    background-color: white;
+    margin-top: 100px;
+    border-radius: 17px;
+    gap: 10px;
+}
+
+.search{
+    color: #1483DC;
+}
+
+.location{
+    color: rgb(86, 85, 85);
+    font-size: small;
+}
+
+.course{
+    display: flex;
+    align-items: center;
+    font-size: larger;
+    padding-left: 20px;
+    border-right: 0.3px solid #E0E0E0;
+    gap: 10px;
+    padding-right: 29px;
+    height: 52px;  
+}
+
+
+.course-section{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.box3{
+    height: 200px;
+    width: 75%;
+    margin-top: 10rem;
+    /* margin-left: 10rem; */
+    border-radius: 10px;
+    background-color: white;
+    box-sizing: border-box; 
+    border: 10px solid rgb(213, 213, 231);
+}
+
+
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 4rem;
+    
+}
+
+.college1{
+    padding-top: 25px;
+    padding-left: 80px;
+    font-size: 25px;
+    color: rgb(34, 133, 163);
+}
+
+.exams{
+    padding-top: 25px;
+    padding-left: 80px;
+    font-size: 25px;
+    color: rgb(163, 34, 144);
+}
+
+.course1{
+    padding-top: 25px;
+    padding-left: 80px;
+    font-size: 25px;
+    color: rgb(194, 231, 32);
+}
+
+.review{
+    padding-top: 25px;
+    padding-left: 80px;
+    font-size: 25px;
+    color: rgb(61, 31, 173);
+}
+
+.student{
+   font-size: 20px; 
+   padding-left: 58px;
+   padding-top: 10px;
+}
